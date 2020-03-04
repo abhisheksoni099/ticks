@@ -1,4 +1,4 @@
-package com.abhishek.todo.model;
+package com.abhishek.ticks.model;
 
 import com.fasterxml.jackson.annotation.JsonInclude;
 import lombok.Getter;
